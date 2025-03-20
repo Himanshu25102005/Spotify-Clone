@@ -4,7 +4,7 @@ A pixel-perfect Spotify clone built with HTML, CSS, and Bootstrap, showcasing mo
 
 ## ✨ Features
 
-- 🎨 Pixel-perfect UI matching Spotify's design
+- 🎨 Pixel-perfect UI matching Spotify's design.
 - 📱 Fully responsive layout
 - 🎵 Interactive music player interface.
 - 📂 Dynamic playlist display
