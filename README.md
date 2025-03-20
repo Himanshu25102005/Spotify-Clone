@@ -9,7 +9,7 @@ A pixel-perfect Spotify clone built with HTML, CSS, and Bootstrap, showcasing mo
 - 🎵 Interactive music player interface.
 - 📂 Dynamic playlist display.
 - 🌙 Dark theme design.
-- 📊 Custom grid system using Bootstrap
+- 📊 Custom grid system using Bootstrap.
 
 ## 🚀 Tech Stack
 
