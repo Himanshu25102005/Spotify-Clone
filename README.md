@@ -15,7 +15,7 @@ A pixel-perfect Spotify clone built with HTML, CSS, and Bootstrap, showcasing mo
 
 - **HTML5** - Semantic markup structure
 - **CSS3** - Custom styling and animations
-- **Bootstrap 5** - Responsive grid and components
+- **Bootstrap 5** - Responsive grid and components.
 - **Font Awesome** - For music and UI icons
 
 ## 📸 Screenshots
